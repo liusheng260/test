@@ -11,7 +11,7 @@ public class LoginTest extends BaseTest{
 	@Test(dataProviderClass=TestDataFactory.class,dataProvider="loginTestData")
 	public void testLogin_success(String username,String password,String expectedText) {
 		//1、打开首页
-		driver.get("http://192.168.1.102/ecshop/");
+		driver.get("http://192.168.1.101/ecshop/");
 		//2、点击登录链接
 		//页面实例化
 		IndexPage indexPage = new IndexPage(driver);
