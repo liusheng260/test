@@ -22,7 +22,7 @@ public class UserPage {
 	/**
 	 * 用户名的输入框
 	 */
-	@FindBy(name="username1")
+	@FindBy(name="username")
 	private WebElement username_input;
 	/**
 	 * 密码输入框
