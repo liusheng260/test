@@ -21,7 +21,7 @@
   			<version>2.20.1</version>
   			<configuration>
   				<suiteXmlFiles>
-  					<suiteXmlFile>testDemo3.xml</suiteXmlFile>
+  					<suiteXmlFile>testngDemo3.xml</suiteXmlFile>
   				</suiteXmlFiles>
   			</configuration>
   		</plugin>
