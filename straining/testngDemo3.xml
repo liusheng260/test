@@ -4,7 +4,7 @@
 		<listener class-name="com.ss.framework.utils.TestListener" />
 		<listener class-name="com.ss.framework.utils.RetryListener" />
 	</listeners>
-	<test name="regressiong test1">
+	<test name="Listener test1">
 		<classes>
 			<class name="com.ss.ecshop.tests.LoginTest" />
 		</classes>
