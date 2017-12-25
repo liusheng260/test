@@ -9,7 +9,7 @@ import org.openqa.selenium.firefox.GeckoDriverService;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
-public class Demo1 {
+public class DemoTest11 {
 
 	public static void main(String[] args) {
 		/*System.setProperty("webdriver.gecko.driver","/Users/liusheng/Desktop/application/geckodriver");
